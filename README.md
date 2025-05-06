@@ -1,2 +1,2 @@
 # Programming In RaspberryPi.
-# Using cpp and python.
+# Using C++ and Python.
